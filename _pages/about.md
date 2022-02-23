@@ -25,9 +25,6 @@ Rahul has has set up a centre for Innovation and entrepreneurship known as IDEA 
 
 Rahul is energized by stories of success. He loves reading positive books. He gobbles up motivational materials like they are going out of style. To him, the glass is always half full. When people around him complain that the worst is here, he’s convincing them the best days are yet to come. Rahul, you see, is an optimistic leader to handle any responsibility.
 
-
-
-
 #Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name #your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 #Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your #`_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
