@@ -23,6 +23,7 @@ learning, algorithmic fairness and identification the role of statstical paradox
 Genralised Association Rule Mining
 Role of Stastical Paradoxes(E.g., Simpson's Paradox) in AI, ML and Big Data based applications
 Algorithimic fairness and biasness
+
 He has over twelve years of experience in education, consulting, independent research and mentoring young entrepreneurs. From 2014 to 2019, Rahul has worked as an assistant
 professor at Ajay Kumar Garg Engineering College, Ghaziabad, India. As an edupreneur, he has clearly recognized the basic needs of modern students in the institute and has taken
 many steps to develop a digital paperless campus and digital classrooms. In 2015, He started Big Data Centre of Excellence to provide an ecosystem to expand research and provide
