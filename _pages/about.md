@@ -16,13 +16,14 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Rahul is a passionate computer science researcher with excellent communication and writing skills. Currently, He is working as an early-stage researcher and doctoral candidate at
+the software science department, information systems group, Tallinn university of technology, Tallinn, Estonia. Currently, he's working on association rule mining, machine
+learning, algorithmic fairness and identification the role of statstical paradoxes in AI, ML and big data based applications. His research interests broadly include:
 
-Rahul is a a accomlsihed researchr with innovative abilities. Currently, He is working as an early stahe researcher and doctoral candidate at Software Science Department, Informationa Systems Group, Tallinn University of Technology, Tallinn, Estonia. Prior to join the PhD programme, He has over 10 years of experience in consulting, independent research, education, training and mentoring young entrepreneurs. His assignments have included visioning and mentoring workshops for early stage start-ups and organizations.
-
-During 2014-2019, Rahul has worked as a young educator at Ajay Kumar Garg Engineering College, Ghaziabad, India. As an intrapreneur in the college, He has clearly recognized the basic need for modern students and universities and taken a step to develop a digital paperless campus and digital classrooms. He has long exemplified a level of commitment to the institite that has served as a model for others. In 2015, He has taken an initiative to start a Big Data Centre of Excellence to provide new age technologies and an ecosystem to develop research and innovation.
-
-Rahul has has set up a centre for Innovation and entrepreneurship known as IDEA Lab; A Ministry of Human Resource Development supported Institute Innovation Council, an Intellectual Property Rights cell (IPR Cell) and under his leadership as Head of Innovation and Entrepreneurship the college has the approval to conduct five Department of Science and Technology Government of India supported Entrepreneurship Awareness camps under DST-NIMAT Project. The goals of “IDEA Lab and MIC” were to strengthen students academic and practical understanding of the innovation and enreprenurail process as well as provide them with opportunities to practice entrepreneurial skills. 
-
-Rahul is energized by stories of success. He loves reading selfhelp books. To him, the glass is always half full. When people around him complain that the worst is here, he’s convincing them the best days are yet to come. Rahul, you see, is an optimistic leader to handle any responsibility.
-
-
+Genralised Association Rule Mining
+Role of Stastical Paradoxes(E.g., Simpson's Paradox) in AI, ML and Big Data based applications
+Algorithimic fairness and biasness
+He has over twelve years of experience in education, consulting, independent research and mentoring young entrepreneurs. From 2014 to 2019, Rahul has worked as an assistant
+professor at Ajay Kumar Garg Engineering College, Ghaziabad, India. As an edupreneur, he has clearly recognized the basic needs of modern students in the institute and has taken
+many steps to develop a digital paperless campus and digital classrooms. In 2015, He started Big Data Centre of Excellence to provide an ecosystem to expand research and provide
+state-of-the-art education on new technologies.
