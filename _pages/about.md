@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://taltech.ee/'>Tallinn University of Technology, Estonia</a>
-<p>rahul.sharma@taltech.ee</p>
+subtitle: <a href='https://taltech.ee/'>Tallinn University of Technology, Estonia Email: rahul.sharma@taltech.ee</a>
+
 
 profile:
   align: right
