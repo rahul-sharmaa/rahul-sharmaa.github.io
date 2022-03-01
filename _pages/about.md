@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://taltech.ee/'>Tallinn University of Technology</a>
+subtitle: <a href='https://taltech.ee/'>Tallinn University of Technology</a>.
 
 profile:
   align: right
