@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='https://taltech.ee/'>Tallinn University of Technology</a>
-e-mail: rahul.sharma@taltech.ee
 
 profile:
   align: right
