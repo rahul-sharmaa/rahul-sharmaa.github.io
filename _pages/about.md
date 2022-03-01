@@ -3,15 +3,12 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='https://taltech.ee/'>Tallinn University of Technology, Estonia</a>
+<p>rahul.sharma@taltech.ee</p>
 
 profile:
   align: right
   image: rahul.png
   address: >
-    <p>rahul.sharma@taltech.ee</p>
-    <p>+372 58385059</p>
-    <p>Tallinn, Estonia</p>
-
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
