@@ -2,22 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://taltech.ee/'>Tallinn University of Technology</a>.
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: rahul.png
+  address: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
+
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Rahul is a dynamic computer science researcher with excellent communication and writing skills. Currently, He is working as an early-stage researcher and doctoral candidate at the software science department, information systems group, Tallinn university of technology, Estonia. He's passionate about working on association rule mining, machine learning, algorithmic fairness and identification of the role of statistical paradoxes in AI, ML and big data based applications. His research interests broadly include:
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-<ul>
-  <li>Genralised Association Rule Mining</li>
-  <li>Algorithimic fairness and biasness</li>
-  <li>Role of statistical paradoxes(E.g., Simpson's Paradox) in AI, ML and Big Data based applications</li>
-</ul>
+Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Rahul has over twelve years of experience in education, consulting, independent research and mentoring young entrepreneurs. From 2014 to 2019, Rahul has worked as an assistant professor at Ajay Kumar Garg Engineering College, Ghaziabad, India. As an edupreneur. He has clearly recognized the basic needs of modern students in the institute and has taken many steps to strengthen research, innovation and digital paperless campus, including digital classrooms. In 2015, He started the Big Data Centre of Excellence to provide an ecosystem to expand research and provide state-of-the-art education on new technologies.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
