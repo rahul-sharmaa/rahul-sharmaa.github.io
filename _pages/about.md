@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.taltech.ee/'>Tallinn University of Technology</a>.
 
