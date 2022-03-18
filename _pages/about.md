@@ -8,9 +8,9 @@ profile:
   align: right
   image: rahul.png
   
-  news: true  # includes a list of news items
-  selected_papers: true # includes a list of papers marked as "selected={true}"
-  social: true  # includes social icons at the bottom of the page
+news: true  # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
 Rahul is a dynamic computer science researcher with excellent communication and writing skills. Currently, He is working as an early-stage researcher and doctoral candidate at the software science department, information systems group, Tallinn university of technology, Estonia. He's passionate about working on association rule mining, machine learning, algorithmic fairness and identification of the role of statistical paradoxes in AI, ML and big data based applications. His research interests broadly include:
