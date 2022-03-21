@@ -6,7 +6,7 @@ subtitle: <a href='https://www.taltech.ee/'>Tallinn University of Technology</a>
 
 profile:
   align: right
-  image: rahul.png
+  image: rahul.jpg
   
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
