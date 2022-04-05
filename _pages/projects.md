@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: false
 display_categories: [work, fun]
-horizontal: false
+horizontal: True
 ---
 
 <!-- pages/projects.md -->
