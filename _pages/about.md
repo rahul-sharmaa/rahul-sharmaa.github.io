@@ -16,10 +16,12 @@ social: true  # includes social icons at the bottom of the page
 Rahul is a dynamic computer science researcher with excellent communication and writing skills. Currently, He is working as an early-stage researcher and doctoral candidate at the software science department, information systems group, Tallinn university of technology, Estonia. He's passionate about working on association rule mining, machine learning, algorithmic fairness and identification of the role of statistical paradoxes in AI, ML and big data based applications. His research interests broadly include:
 
 <ul>
-  <li>Genralised Association Rule Mining</li>
   <li>Algorithimic fairness and biasness</li>
-  <li>Machine Learning</li>
+  <li>Explainable and Trustoworthy AI</li>
   <li>Role of statistical paradoxes(E.g., Simpson's Paradox) in AI, ML and Big Data</li>
+  <li>Identifying Causal and Confounding effects in Machine Learning</li>
+  <li>Machine Learning</li>
+  <li>Genralised Association Rule Mining</li>
 </ul>
 
 Rahul has over twelve years of experience in education, consulting, independent research. From 2014 to 2019, Rahul has worked as an assistant professor at Ajay Kumar Garg Engineering College, Ghaziabad, India. As an edupreneur. He has clearly recognized the basic needs of modern students in the institute and has taken many steps to strengthen research and innovation. In 2015, He started a Big Data Centre of Excellence to provide an ecosystem to expand research and impart state-of-the-art education on new technologies.
