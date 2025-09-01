@@ -13,7 +13,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Rahul is a dynamic computer science researcher with excellent communication and writing skills. Currently, He is working as an early-stage researcher and doctoral candidate at the software science department, information systems group, Tallinn university of technology, Estonia. He's passionate about working on association rule mining, machine learning, algorithmic fairness and identification of the role of statistical paradoxes in AI, ML and big data based applications. His research interests broadly include:
+Prof. Rahul Sharma is an academic leader and researcher with over 15 years of experience in higher education, research leadership, and institutional development across India, Estonia, and Germany. Recognized for result-oriented strategies, transformative leadership, and outcome-driven initiatives that strengthen academic rigor and innovation. Strong expertise in strategic planning, academic governance, and digital transformation, with a proven record of delivering multi-million-euro research projects. Experienced in building global academic university collaborations and committed to developing future-ready, top-class universities that integrate pioneering research, entrepreneurship, and sustainable growth.
+
+# Rahul is a dynamic computer science researcher with excellent communication and writing skills. Currently, He is working as an early-stage researcher and doctoral candidate at the software science department, information systems group, Tallinn university of technology, Estonia. He's passionate about working on association rule mining, machine learning, algorithmic fairness and identification of the role of statistical paradoxes in AI, ML and big data based applications. His research interests broadly include:
 
 <ul>
   <li>Algorithimic fairness and biasness</li>
